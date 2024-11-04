@@ -15,7 +15,7 @@
 
 <h1>InfoGrabber V1.0</h1>
 
-<p>This tutorial will guide yo through the process of creating and running a Python script that collects various system information, including the hostname, operating system, local and public IP addresses, Wi-Fi SSID, GPS location, and a directory listing.</p>
+<p>This tutorial will guide yo azz through the process of creating and running a Python script that collects various system information, including the hostname, operating system, local and public IP addresses, Wi-Fi SSID, GPS location, and a directory listing.</p>
 
 <h2>Tested On</h2>
 <ul>Termux, Kali Linux, Arch Linux
