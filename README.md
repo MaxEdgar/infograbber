@@ -16,6 +16,8 @@
 <h2>Tested On</h2>
 <ul>Termux, Kali Linux, Arch Linux
 
+<h2> Created By Max </h2>
+
     
 <h2>Prerequisites</h2>
 <ul>
@@ -137,7 +139,7 @@ list_directories("/")  # Change "/" to specific directory if needed</code></pre>
 <pre><code>deactivate</code></pre>
 
 <h2>Conclusion</h2>
-<p>You have successfully created and run a Python script to gather system information on Kali Linux,, yu can modify the script as needed and share it with others on GitHub. If you have any questions or issues, don’t hesitate to ask for help!....PLS COLLAB</p>
+<p>You have successfully created and run a Python script to gather system information on Kali Linux,, yu can modify the script as needed and share it with others on GitHub. If you have any questions or issues, don’t hesitate to ask for help!....PLS COLLAB I Also gonna upload the python script asap and make an automated installer for the code. i also gonna release my new IP tracking tools.</p>
 
 </body>
 </html>
