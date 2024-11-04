@@ -3,32 +3,20 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Python System Information Script Tutorial</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 20px;
-            padding: 20px;
-            background-color: #f4f4f4;
-        }
-        h1, h2, h3 {
-            color: #333;
-        }
-        pre {
-            background-color: #e2e2e2;
-            padding: 10px;
-            border-radius: 5px;
-            overflow-x: auto;
-        }
-    </style>
+   
+  
+
 </head>
 <body>
 
-<h1>Python System Information Script Tutorial</h1>
+<h1>InfoGrabber V1.0</h1>
 
 <p>This tutorial will guide you through the process of creating and running a Python script that collects various system information, including the hostname, operating system, local and public IP addresses, Wi-Fi SSID, GPS location, and a directory listing.</p>
 
+<h2>Tested On</h2>
+<ul>Termux, Kali Linux, Arch Linux
+
+    
 <h2>Prerequisites</h2>
 <ul>
     <li>A computer running <strong>Kali Linux</strong> or any Debian-based system.</li>
@@ -149,7 +137,7 @@ list_directories("/")  # Change "/" to specific directory if needed</code></pre>
 <pre><code>deactivate</code></pre>
 
 <h2>Conclusion</h2>
-<p>You have successfully created and run a Python script to gather system information on Kali Linux! Feel free to modify the script as needed and share it with others on GitHub. If you have any questions or issues, don’t hesitate to ask for help!</p>
+<p>You have successfully created and run a Python script to gather system information on Kali Linux,, yu can modify the script as needed and share it with others on GitHub. If you have any questions or issues, don’t hesitate to ask for help!....PLS COLLAB</p>
 
 </body>
 </html>
