@@ -3,7 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   ![github-header-image](https://github.com/user-attachments/assets/8d0581bd-ebf8-4c07-9454-39bcdb0060ba)
+ <img src="https://raw.githubusercontent.com/user-attachments/assets/8d0581bd-ebf8-4c07-9454-39bcdb0060ba" alt="Banner" style="width:100%; max-width:600px;">
+
 
   
 
