@@ -3,7 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<img src="https://raw.githubusercontent.com/user-attachments/assets/main/banner.png" alt="Banner" style="width:100%; max-width:600px;">
+
+<img src="https://raw.githubusercontent.com/MaxEdgar/infograbber/main/github-header-image.png" alt="Banner" style="width:100%; max-width:600px;">
+
 
 
   
